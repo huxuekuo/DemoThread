@@ -1,4 +1,4 @@
-/**
+ /**
  * 对象的同步锁与异步锁
  */
 public class DemoThread02 {
